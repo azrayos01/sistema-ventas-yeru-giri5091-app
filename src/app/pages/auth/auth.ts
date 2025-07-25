@@ -33,6 +33,8 @@ export class Auth implements OnInit, OnDestroy{
     // Si todo el formulario es correcto obtener el usuario y contraseña para enviarlos
     const form = this.loginForm.value;
 
+    //this.
+
     console.log(form);
   }
 
