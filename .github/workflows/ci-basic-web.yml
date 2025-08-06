@@ -43,6 +43,6 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: azrayos/ssv: latest
+                tags: azrayos/ssv:latest
 
 
